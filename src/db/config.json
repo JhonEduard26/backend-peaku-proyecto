@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "A1090436102*",
+        "database": "peaku_node",
+        "host": "localhost",
+        "dialect": "postgres"
+    }
+}
